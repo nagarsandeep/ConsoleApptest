@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+	
 	string readline;
 	ifstream file("c:\\repos\\failedfunctions.txt");
 	ofstream fileout("c:\\repos\\failedfunparse.txt");
